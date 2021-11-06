@@ -1,0 +1,3 @@
+/home/ksenkap/CLionProjects/1/build-realise/CMakeFiles/rebuild_cache.dir
+/home/ksenkap/CLionProjects/1/build-realise/CMakeFiles/edit_cache.dir
+/home/ksenkap/CLionProjects/1/build-realise/CMakeFiles/1.dir
